@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **landing pages for websites**
+- 👯 I’m looking to collaborate on **Landing pages for websites**
 
 - 🤝 I’m looking for help with **Go concurrency patterns**
 
