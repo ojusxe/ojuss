@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Landing pages for websites**
+- 👯 I’m looking to collaborate on **React based applications**
 
 - 🤝 I’m looking for help with **Go concurrency patterns**
 
-- 💬 Ask me about **C++/Go/JS**
+- 🧠 Ask me about **C++/Go/JS**
 
-- 📫 How to reach me **guptaojas75@gmail.com**
+- 🌐 You can reach me here **guptaojas75@gmail.com**
 
-- ⚡ Fun fact **I think I'm pretty good on guitar**
+- 💡 Fun fact **I think I'm pretty good on guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
