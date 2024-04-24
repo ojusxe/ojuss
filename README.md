@@ -3,7 +3,7 @@
 
 <br></br>
 <img align="right" alt="Coding" width="400" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif">
-
+<br></br>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
