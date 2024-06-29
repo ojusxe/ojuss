@@ -1,5 +1,5 @@
 <h1 align="center">Hei World!🌐🤖 I'm Ojus</h1>
-<h3 align="center">Passionate for React && Go Development with a knack for DSA</h3>
+<h3 align="center">Passionate for React && Go Development</h3>
 <br></br>
 <img align="right" alt="Coding" width="400" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif">
 
