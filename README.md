@@ -3,13 +3,9 @@
 <br></br>
 <img align="right" alt="Coding" width="400" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif">
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
 - 💡 I’m looking to collaborate on **React based applications**
 
-- 🌐 I’m looking for help with **Go concurrency patterns**
-
-- 🧠 Ask me about **C++/Go/JS**
+- 🧠 Ask me about **React.js/Next.js**
 
 - 📨 You can reach me out **guptaojas75@gmail.com**
 
