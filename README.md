@@ -28,6 +28,5 @@
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,go,c,js,html,css,figma,tailwind,react,redux,gcp,git,githubactions,vscode,linux,heroku,netlify&perline=9)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojuss&show_icons=true&locale=en&theme=dark" alt="ojuss" /></p>
 
 
