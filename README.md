@@ -3,7 +3,7 @@
 <br></br>
 <img align="right" alt="Coding" width="400" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif">
 
-- 💡 I’m looking to collaborate on **React based applications**
+- 💡 I’m looking to collaborate on **web based applications**
 
 - 🧠 Ask me about **React.js/Next.js**
 
