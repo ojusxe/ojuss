@@ -22,7 +22,7 @@
 
 <h3 align="left">🛠️ Languages && Frameworks:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=cpp,go,c,js,html,css,figma,tailwind,react,redux,gcp,git,githubactions,vscode,linux,heroku,netlify&perline=9)
+![My Skills](https://skillicons.dev/icons?i=cpp,go,js,nextjs,tailwind,redux,git,linux,vercel&perline=9)
 
 
 
