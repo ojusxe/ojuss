@@ -5,6 +5,7 @@
 
 <br>
 <br>
+
 - 💡 Figuring out advanced routing techniques in Next.js
 
 - ☁️ Ask me about today's weather
@@ -12,6 +13,8 @@
 - 📨 You can reach me out on any of my socials
 
 - 😓 Powering through uni
+
+<br>
 
 <h2 align="left">🌍 Let's connect!</h2>
 <p align="left">
