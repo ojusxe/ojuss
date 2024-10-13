@@ -1,5 +1,5 @@
 <h1 align="center">Ciao! 🕹️🪼 I'm Ojus</h1>
-<h2 align="center">Passionate for React/Next && Go Development</h2>
+<h3 align="center">Passionate for React/Next && Go Development</h3>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 - 😓 Powering through uni
 
-<h3 align="left">🌍 Let's connect!</h3>
+<h2 align="left">🌍 Let's connect!</h2>
 
 <a href="https://linkedin.com/in/ojuss" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="ojuss" height="45" width="45" /></a>
 <a href="https://instagram.com/ojusw" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="ojusgup" height="45" width="45" /></a>
@@ -24,9 +24,9 @@
 <a href="https://discord.gg/https://discord.gg/gprZUGqVSR" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="45" width="45" /></a>
 
 
-<h3 align="left">🛠️ Tech Bank </h3>
+<h2 align="left">🛠️ Tech Bank </h2>
 
-![My Skills](https://skillicons.dev/icons?i=cpp,go,js,ts,nextjs,tailwind,git,linux,vercel&perline=9)
+![My Skills](https://skillicons.dev/icons?i=cpp,go,js,ts,nextjs,tailwind,git,linux,vercel)
 
 
 
