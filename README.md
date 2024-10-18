@@ -18,11 +18,10 @@
 
 <h2 align="left">🌍 Let's connect!</h2>
 
-<a href="https://linkedin.com/in/ojuss" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="ojuss" height="45" width="45" /></a>&nbsp;
-<a href="https://instagram.com/ojusw" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="ojusgup" height="45" width="45" /></a>&nbsp;
-<a href="https://www.leetcode.com/ojuss" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" alt="ojuss" height="45" width="45" /></a>&nbsp;
-<a href="https://discord.gg/https://discord.gg/gprZUGqVSR" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="45" width="45" /></a>
-
+<a href="https://linkedin.com/in/ojuss" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="ojuss" height="48" width="48" /></a>&nbsp;
+<a href="https://instagram.com/ojusw" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="ojusgup" height="48" width="48" /></a>&nbsp;
+<a href="https://www.leetcode.com/ojuss" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" alt="ojuss" height="48" width="48" /></a>&nbsp;
+<a href="https://discord.gg/https://discord.gg/gprZUGqVSR" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="48" width="48" /></a>
 
 <h2 align="left">🛠️ Tech Bank </h2>
 
