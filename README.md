@@ -31,6 +31,7 @@
 <a href="https://www.leetcode.com/ojuss" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" alt="ojuss" height="48" width="48" /></a>&nbsp;
 <a href="https://discord.gg/https://discord.gg/gprZUGqVSR" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="48" width="48" /></a>
 
-  <img align="right" src="https://s11.gifyu.com/images/SG3Fp.gif" alt="Coding Mario" width="300" />
-  
+<br />
+
+<img align="right" src="https://s11.gifyu.com/images/SG3Fp.gif" alt="Coding Mario" width="300" />  
 [![Ojus's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojuss&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
