@@ -1,5 +1,5 @@
 <div>
-  <img align="right" src="https://s11.gifyu.com/images/SG3Fp.gif" alt="Coding Mario" width="400" />
+  <img align="right" src="https://s11.gifyu.com/images/SG3Fp.gif" alt="Coding Mario" width="300" />
   
 ### Ciao, I'm Ojus 🕹️🪼
   
@@ -9,8 +9,6 @@
 - 📫 Powering through uni
 - ☁️ Ask me about the weather or your fav tech-stack
 </div>
-
-<br />
 
 ### 🐳 Technologies I know
 
