@@ -1,5 +1,5 @@
 <div>
-  <img align="right" src="https://s11.gifyu.com/images/SG3Fp.gif" alt="Coding Mario" width="300" />
+
   
 ### Ciao, I'm Ojus 🕹️🪼
   
@@ -24,11 +24,13 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🛝 Hello world let’s connect!
+### 🥠 Let’s connect!
 
 <a href="https://linkedin.com/in/ojuss" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="ojuss" height="48" width="48" /></a>&nbsp;
 <a href="https://instagram.com/ojusw" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="ojusgup" height="48" width="48" /></a>&nbsp;
 <a href="https://www.leetcode.com/ojuss" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" alt="ojuss" height="48" width="48" /></a>&nbsp;
 <a href="https://discord.gg/https://discord.gg/gprZUGqVSR" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="48" width="48" /></a>
 
+  <img align="right" src="https://s11.gifyu.com/images/SG3Fp.gif" alt="Coding Mario" width="300" />
+  
 [![Ojus's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojuss&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
