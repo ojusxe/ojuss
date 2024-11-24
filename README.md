@@ -33,7 +33,5 @@
 
 <br />
 <div>
-<img align="right" src="https://s11.gifyu.com/images/SG3Fp.gif" alt="Coding Mario" width="350" />  
-
-[![Ojus's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojuss&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://s11.gifyu.com/images/SG3Fp.gif" alt="Coding Mario" width="350" />  
 </div>
