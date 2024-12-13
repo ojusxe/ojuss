@@ -3,11 +3,11 @@
   
 ### Hello from Ojus 🕹️🪼
   
-🚀 I’m currently working with a custom merchandising startup [Flib](https://flib.store)
-💡 Currently working on a custom bot about music theory and instruments [Riffbot](https://github.com/ojuss/riffbot)
-🌱 Reach me out on my mail guptaojas75@gmail.com 
-📫 Trying to figure GoFiber (Go's framework) and power through uni
-☁️ Ask me about the weather or your fav tech-stack
+- 🚀 I’m currently working with a custom merchandising startup [Flib](https://flib.store)
+- 💡 Currently working on a custom bot about music theory and instruments [Riffbot](https://github.com/ojuss/riffbot)
+- 🌱 Reach me out on my mail guptaojas75@gmail.com 
+- 📫 Trying to figure GoFiber (Go's framework) and power through uni
+- ☁️ Ask me about the weather or your fav tech-stack
 </div>
 
 ***Technologies I'm familiar with...***
