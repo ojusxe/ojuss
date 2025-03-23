@@ -3,9 +3,9 @@
   
 ### Hello from Ojus 🕹️🪼
   
-- 🚀 I’m currently working with [Hammer AI](https://hammerai.com)
+- 🚀 I’m currently working as part-time SWE at [Hammer AI](https://hammerai.com)
 - 🌱 Reach me out on my mail guptaojas75@gmail.com 
-- 📫 Trying to figure GoFiber (Go's framework) and power through uni
+- 📫 Trying to figure GoFiber, Electron and power through uni
 - ☁️ Ask me about the weather or your fav tech-stack
 </div>
 
@@ -25,10 +25,10 @@
 
 ### 🥠 let’s connect!
 
-<a href="https://linkedin.com/in/ojuss" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="ojuss" height="48" width="48" /></a>&nbsp;
-<a href="https://instagram.com/ojusw" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="ojusgup" height="48" width="48" /></a>&nbsp;
-<a href="https://www.leetcode.com/ojuss" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" alt="ojuss" height="48" width="48" /></a>&nbsp;
-<a href="https://discord.gg/https://discord.gg/gprZUGqVSR" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="48" width="48" /></a>
+<a href="https://linkedin.com/in/ojuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="ojuss"  /></a>&nbsp;
+<a href="https://instagram.com/ojusw" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="ojusgup"  /></a>&nbsp;
+<a href="https://www.leetcode.com/ojuss" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" alt="ojuss" height="36" width="36" /></a>&nbsp;
+<a href="https://discord.gg/https://discord.gg/gprZUGqVSR" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg"/></a>
 
 <br />
 <div>
