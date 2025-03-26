@@ -3,7 +3,7 @@
   
 ### Hello from Ojus 🕹️🪼
   
-- 🚀 I’m currently working as part-time SWE at [Hammer AI](https://hammerai.com)
+- 🚀 I’m currently working part-time [Hammer AI](https://hammerai.com)
 - 🌱 Reach me out on my mail guptaojas75@gmail.com 
 - 📫 Trying to figure GoFiber, Electron and power through uni
 - ☁️ Ask me about the weather or your fav tech-stack
