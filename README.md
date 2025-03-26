@@ -5,7 +5,7 @@
   
 - 🚀 I’m currently working part-time [Hammer AI](https://hammerai.com)
 - 🌱 Reach me out on my mail guptaojas75@gmail.com 
-- 📫 Trying to figure GoFiber, Electron and power through uni
+- 📫 I'm currently learning/working with Next.js, React-Native & GoFiber
 - ☁️ Ask me about the weather or your fav tech-stack
 </div>
 
