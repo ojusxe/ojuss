@@ -4,8 +4,8 @@
 ### Hello from Ojus 🕹️🪼
   
 - 🚀 I’m currently working part-time [Hammer AI](https://hammerai.com)
-- 🌱 Reach me out on my mail guptaojas75@gmail.com 
-- 📫 I'm currently learning/working with Next.js, React-Native & GoFiber
+- 🌱 Reach me out on my mail ojusxe@gmail.com 
+- 📫 I'm currently learning/working with Next.js, Electron & GoFiber
 - ☁️ Ask me about the weather or your fav tech-stack
 </div>
 
