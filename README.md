@@ -3,8 +3,8 @@
   
 ### Ciao! I'm Ojus 
   
-- 🚀 I’m currently working part-time [Hammer AI](https://hammerai.com)
-- 🌱 Reach me out on my mail ojusxe@gmail.com 
+- 🚀 I’m currently working part-time [HammerAI](https://hammerai.com)
+- 🌱 Reach me out on my e-mail ojusxe@gmail.com 
 - 📫 I'm currently learning/working with Next.js, Electron & GoFiber
 - ☁️ Ask me about the weather or your fav tech-stack
 </div>
@@ -23,7 +23,7 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🥠 let’s be friends!
+### 🥠 let’s be hermanos!
 
 <a href="https://linkedin.com/in/ojuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="ojuss"  /></a>&nbsp;
 <a href="https://instagram.com/ojusw" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="ojusgup"  /></a>&nbsp;
