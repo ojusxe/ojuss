@@ -4,7 +4,7 @@
 ### Ciao! I'm Ojus 
   
 - 🚀 I’m currently working part-time [HammerAI](https://hammerai.com)
-- 🥏 Also a co author and contributor [Collabdoor](https://github.com/collabdoor)
+- 🥏 Also the co author of [Collabdoor](https://github.com/collabdoor), contributing for social good! 
 - 🌱 Reach me out on my e-mail ojusxe@gmail.com 
 - 📫 I'm currently learning/working with Next.js, Electron & GoFiber
 - ☁️ Ask me about the weather or your fav tech-stack
